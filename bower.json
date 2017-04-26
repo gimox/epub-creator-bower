@@ -1,0 +1,9 @@
+{
+  "version": "1.0.44",
+  "name": "epub-creator-bower",
+  "description": "Create epub from source",
+  "author": "Giorgio Modoni <modogio@gmail.com>",
+  "license": "GNU",
+  "main": "epub-creator.min.js",
+  "private": true
+}
